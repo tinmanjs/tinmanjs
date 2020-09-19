@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tinmanjs/tinmanjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img alt="This is a gif of me crying. Sometimes I get sad thinking of all the time I wasted." src="https://github.com/tinmanjs/tinmanjs/blob/master/tinman-crying.gif?raw=true" width="100%">
